@@ -1,4 +1,4 @@
-# 💡 Data Analyst | Data Scientist | Python & SQL Enthusiast  
+# Data Analyst | Data Scientist | Python & SQL Enthusiast  
 
 👋 Hi, I’m **Melody Bonareri**, a **Data Analyst & Data Scientist** passionate about **data-driven decision-making, predictive modeling, and business intelligence**. I specialize in **Python, SQL, Machine Learning, and data visualization** to extract insights and drive impactful solutions.  
 
